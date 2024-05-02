@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "81R8Ij/gGN+rJrCgxGZFujJf3ngQhZNYeXYJOa1d//w=",
+  "Source": "NetCoreSignalR",
+  "BasePath": "_content/NetCoreSignalR",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NetCoreSignalR/wwwroot",
+      "Source": "NetCoreSignalR",
+      "ContentRoot": "/Users/hyacinthali/git/BusPas/NetCoreSignalR/wwwroot/",
+      "BasePath": "_content/NetCoreSignalR",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/hyacinthali/git/BusPas/NetCoreSignalR/wwwroot/css/site.css",
+      "SourceId": "NetCoreSignalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/hyacinthali/git/BusPas/NetCoreSignalR/wwwroot/",
+      "BasePath": "_content/NetCoreSignalR",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/Users/hyacinthali/git/BusPas/NetCoreSignalR/wwwroot/index.html",
+      "SourceId": "NetCoreSignalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/hyacinthali/git/BusPas/NetCoreSignalR/wwwroot/",
+      "BasePath": "_content/NetCoreSignalR",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/hyacinthali/git/BusPas/NetCoreSignalR/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/hyacinthali/git/BusPas/NetCoreSignalR/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.NetCoreSignalR.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.build.NetCoreSignalR.props",
+      "PackagePath": "build\\NetCoreSignalR.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.NetCoreSignalR.props",
+      "PackagePath": "buildMultiTargeting\\NetCoreSignalR.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.NetCoreSignalR.props",
+      "PackagePath": "buildTransitive\\NetCoreSignalR.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
